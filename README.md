@@ -1,6 +1,7 @@
 ### Hi there 👋
 
  💫 About Me:
+ <br><br>
 🔭 I’m currently working on:<br>Financial Dashboards in Next.js websitrs<br><br>👯 I’m looking to collaborate on:<br>Virtual Reality Games<br><br>🌱 I’m currently learning:<br>Javascript and React<br><br>💬 Ask me about:<br>Unity 3D Engine, C# and C++ programming, Oculus Quest 2 and Steam Valve Headsets, Reinforcement Learning (RL) and any general robotics development questions.<br><br>⚡ Fun fact:<br>I love decoding technical stuff.
 
 
