@@ -83,13 +83,6 @@
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 
-
-# 📊 GitHub Stats:
-[![Jawad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syedjawadakhtar)](https://github.com/syedjawadakhtar/github-readme-stats)
-
-_'Other' indicates `.xacro` and `.urdf` file formats used for making robot descriptions in Gazebo and ROS._
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedjawadakhtar&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
